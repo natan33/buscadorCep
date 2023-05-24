@@ -1,0 +1,4 @@
+BUSCADOR DE CEP 
+
+* Passo 1: pergunta o cep 
+* Passo 2: mostra as informações do cep,rua.longradouro
